@@ -4,14 +4,20 @@
 
 ## 💼 Work Experience
 
-### Software Engineer II @ GameStop NFT
+### Software Engineer @ Taiko
 
-_Feb 2022 - Present_
+_Oct 2022 - Present_
+
+- Working on DX
+
+### Software Engineer @ GameStop
+
+_Feb 2022 - Oct 2022_
 
 - Designed & scaled systems / features end to end for a high traffic NFT marketplace
 - Learned about web3, developing processes, DX, and writing good documentation
 
-### Software Engineer I -> II @ Verisign
+### Software Engineer @ Verisign
 
 _Jun 2020 - Feb 2022_
 
